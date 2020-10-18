@@ -1,7 +1,7 @@
 # primitive-bootloader
 This is a very simple bootloader and doesn't do anything.
 
-![Bootloader running in QEMU](bootloader running in qemu.png)
+![Bootloader running in QEMU](https://github.com/DebugIO/primitive-bootloader/blob/main/images/bootloader%20running%20in%20qemu.png?raw=true)
 
 # How to compile the bootloader
 **You need NASM installed**
